@@ -1,4 +1,4 @@
-# Minimal Dran'n'Drop application for Windows
+# Minimal Drag'n'Drop application for Windows
 
 This repository contains a minimal application sample showcasing how to do basic dragging-and-dropping of files from the Windows Explorer to an application window.
 
@@ -11,7 +11,7 @@ This build method has been tested with Visual Studio 2015, under Windows 10.
 You should be able to use any other compiler, provided you can link the relevant Windows SDK.
 
 ## Why does this even exist?
-When I tried to integrate dragging and dropping in a bigger project, I had trouble finding the relevant documentation on the msdn website; and when I finally found a link to a code sample, the link was broken. So I did this little sample application so that future people who need basic drag'n'drop need for their application don't struggle as much.
+When I tried to integrate dragging and dropping in a bigger project, I had trouble finding the relevant documentation on the msdn website; and when I finally found a link to a code sample, the link was broken. So I did this little sample application so that future people who have basic drag'n'drop need for their application don't struggle as much.
 
 In the end, all this sample does is summarized on this page, under "Extracting the File Names from the Data Object":
 https://docs.microsoft.com/en-us/windows/desktop/shell/datascenarios
