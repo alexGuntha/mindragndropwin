@@ -6,7 +6,7 @@ At launch, it shows both a blank application window and a console window. When y
 
 ## How to Build
 Using the Visual Studio compiler: Simply call the provided build_win32.bat file, after having set vcvarsall.bat in your environment.
-This build method has been tested with Visual Studio 2015, under Windows 10.
+This build method has been tested with Visual Studio 2015, 2017 and 2019, under Windows 10.
 
 You should be able to use any other compiler, provided you can link the relevant Windows SDK.
 

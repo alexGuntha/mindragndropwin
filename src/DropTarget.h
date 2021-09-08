@@ -1,6 +1,5 @@
 /*
 	Minimal Drag and Drop Application for Windows
-	Copright (C) Alexandre LHUILLIER - 2019
 	
 	===
 	
